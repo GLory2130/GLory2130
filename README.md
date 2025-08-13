@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GLory2130
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning bachelor in computer science 
 - 💞️ I’m looking to collaborate on web developer's fields
 - 📫 How to reach me 0756754743
 - 😄 Pronouns: ...
